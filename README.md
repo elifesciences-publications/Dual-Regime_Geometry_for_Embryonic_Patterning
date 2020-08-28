@@ -1,3 +1,8 @@
+This code is associated with the paper from Jutras-Dube et al., "Geometric models for robust encoding of
+dynamical information into embryonic
+patterns
+". eLife, 2020. http://doi.org/10.7554/eLife.55778
+
 # Geometric models for robust encoding of dynamical information into embryonic patterns
 Source codes, figures and movies for the paper "Geometric models for robust encoding of dynamical information into embryonic patterns". All codes are written in the `python3` programming language (except for two `Mathematica` notebooks). This repository also contains folders with the source data files, as well as the source codes used to generate the data files.
 
